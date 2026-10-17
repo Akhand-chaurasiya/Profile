@@ -1,7 +1,8 @@
 # Profile
 <div align="center">
 
-# 🌌 Hello! I'm Akhand - a curious being to build and create something.
+# 🌌 Hello! I'm Akhand
+### A Curious Being to Build and Create Something.
 
 ### 📊 Business Analytics • 🤖 AI • 📈 Data Science • 🌠 Cosmic Curiosity
 
