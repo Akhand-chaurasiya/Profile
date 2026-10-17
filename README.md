@@ -96,12 +96,12 @@ Explore astronomy-related datasets and use data analysis to investigate patterns
 ## GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00C2FF&text_color=E6EDF3&icon_color=9B8AFF&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B1020&title_color=00C2FF&text_color=E6EDF3" height="165" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhand-chaurasiya&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00C2FF&text_color=E6EDF3&icon_color=9B8AFF&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhand-chaurasiya&layout=compact&hide_border=true&bg_color=0B1020&title_color=00C2FF&text_color=E6EDF3" height="165" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B1020&ring=00C2FF&fire=7B61FF&currStreakLabel=00C2FF&sideLabels=E6EDF3&dates=9AA9BC&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Akhand-chaurasiya&hide_border=true&background=0B1020&ring=00C2FF&fire=7B61FF&currStreakLabel=00C2FF&sideLabels=E6EDF3&dates=9AA9BC&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub contribution streak" />
 </p>
 
 ---
