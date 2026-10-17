@@ -72,8 +72,6 @@ My journey is about continuous learning, disciplined experimentation, and explor
 
 `Excel` `SQL` `Power BI`
 
-🔗 **Repository:** Add your project link here.
-
 ### 🧠 02 — Customer Insights & Data Analysis
 **Goal:** Understand customer behavior through evidence.
 
@@ -83,8 +81,6 @@ My journey is about continuous learning, disciplined experimentation, and explor
 
 `Python` `SQL` `Pandas`
 
-🔗 **Repository:** Add your project link here.
-
 ### 🌌 03 — Exploring the Universe Through Data
 **Goal:** Explore astronomical datasets through analysis and visualization.
 
@@ -93,8 +89,6 @@ My journey is about continuous learning, disciplined experimentation, and explor
 - Document scientific findings and limitations.
 
 `Python` `Data Visualization` `Scientific Data`
-
-🔗 **Repository:** Add your project link here.
 
 *These are project goals, not completed projects. I'll add links as working implementations become available.*
 
@@ -126,7 +120,7 @@ My journey is about continuous learning, disciplined experimentation, and explor
 
 ## 🌍 Beyond the Horizon
 
-I am interested in the intersection of **business, intelligent systems, scientific data, and human curiosity**.
+I am interested in the intersection of **business, intelligent systems, scientific data, and human curiosity to reach and belive in building something to go beyong this dark sky of universe**.
 
 From finding insights hidden inside business datasets to exploring information about our universe, I want to keep asking better questions and developing the skills to investigate them.
 
