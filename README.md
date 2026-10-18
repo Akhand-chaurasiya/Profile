@@ -64,7 +64,7 @@ Beyond dashboards and algorithms, I am fascinated by the universe, the questions
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0B1020?style=flat-square&logo=github&logoColor=FFFFFF" alt="Git and GitHub" />
 </p>
 
-*The tools you currently use or are actively learning.*
+*The tools currently use or are actively learning.*
 
 ---
 
