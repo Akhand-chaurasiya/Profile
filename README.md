@@ -1,7 +1,8 @@
-
+```markdown
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,40:30105E,100:00C9FF&height=220&section=header&text=AKHAND%20CHAURASIYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=THINK%20BEYOND%20DATA&descAlignY=58&descSize=18" width="100%" />
+<img src="assets/galaxy-banner.png" alt="Akhand Chaurasiya galaxy banner" width="100%" />
 
 # 👋 Hi, I'm Akhand Chaurasiya
 
