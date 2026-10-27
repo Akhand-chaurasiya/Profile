@@ -53,8 +53,16 @@ I believe curiosity drives innovation—and data helps turn curiosity into disco
 ## 🚀 PROJECTS WITH PURPOSE
 
 <!-- PROJECTS-START -->
-_Project information will be updated automatically by GitHub Actions._
+| Project | Description | Language | Last pushed |
+|---|---|---|---|
+| [My_Ecommerce_Project](https://github.com/Akhand-chaurasiya/My_Ecommerce_Project) | No description provided | Not specified | 27 Oct 2026 |
+| [Profile](https://github.com/Akhand-chaurasiya/Profile) | This repository shows my profile. I wellcome you all and thanks for visting. Lets connect to build something beneficial and result oriented to help others. | Python | 27 Oct 2026 |
+| [Project_Free_PDF_Reader_App](https://github.com/Akhand-chaurasiya/Project_Free_PDF_Reader_App) | Project_Free_PDF_Reader_App - Aim to lauch free reader app without any paid preimiumship | JavaScript | 27 Oct 2026 |
+| [skills-introduction-to-git](https://github.com/Akhand-chaurasiya/skills-introduction-to-git) | Exercise: Introduction to Git | Shell | 11 Apr 2026 |
+| [Practice-Learning](https://github.com/Akhand-chaurasiya/Practice-Learning) | This repository created just for learning purpose more about GIT and GIT Hub. | Jupyter Notebook | 26 Jan 2026 |
+| [2ND-TEST-REPOSITORY](https://github.com/Akhand-chaurasiya/2ND-TEST-REPOSITORY) | Practice and learning | Not specified | 25 Jan 2026 |
 
+_Automatically updated by GitHub Actions. Last-pushed dates indicate activity, not completion._
 <!-- PROJECTS-END -->
 
 ## 📈 GITHUB ACTIVITY
