@@ -60,11 +60,14 @@ def build_project_list(repos):
     for repo in repos[:8]:
         name = repo["name"]
         url = repo["html_url"]
+
         description = (
             repo.get("description") or "No description provided"
         ).replace("|", "\\|").replace("\n", " ")
 
-        language = (repo.get("language") or "Not specified").replace("|", "\\|")
+        language = (
+            repo.get("language") or "Not specified"
+        ).replace("|", "\\|")
 
         lines.append(
             f"| [{name}]({url}) | {description} | "
@@ -99,8 +102,9 @@ def update_readme(project_list):
         readme[:start] + "\n" + project_list + "\n" + readme[end:]
     )
 
-    with open("README.md", "w", encoding="utf-8") as file:
-        file.write(updated)
+    if updated != readme:
+        with open("README.md", "w", encoding="utf-8") as file:
+            file.write(updated)
 
     print("Project list updated successfully.")
 
