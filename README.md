@@ -1,10 +1,9 @@
-```markdown
  
 <div align="center">
 
-<img src="assets/galaxy-banner.png" alt="Akhand Chaurasiya galaxy banner" width="100%" />
+<img src="galaxy-banner.png.png" alt="Akhand Chaurasiya galaxy banner" width="100%" />
 
-# 👋 Hi, I'm Akhand Chaurasiya
+# Hi, I'm Akhand Chaurasiya
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | AI
 
