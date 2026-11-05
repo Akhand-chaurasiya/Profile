@@ -55,6 +55,7 @@ I believe curiosity drives innovation—and data helps turn curiosity into disco
 <!-- PROJECTS-START -->
 | Project | Description | Language | Last pushed |
 |---|---|---|---|
+| [My_DataBase](https://github.com/Akhand-chaurasiya/My_DataBase) | No description provided | Rust | 05 Nov 2026 |
 | [Profile](https://github.com/Akhand-chaurasiya/Profile) | This repository shows my profile. I wellcome you all and thanks for visting. Lets connect to build something beneficial and result oriented to help others. | Python | 28 Oct 2026 |
 | [My_Ecommerce_Project](https://github.com/Akhand-chaurasiya/My_Ecommerce_Project) | No description provided | Not specified | 27 Oct 2026 |
 | [Project_Free_PDF_Reader_App](https://github.com/Akhand-chaurasiya/Project_Free_PDF_Reader_App) | Project_Free_PDF_Reader_App - Aim to lauch free reader app without any paid preimiumship | JavaScript | 27 Oct 2026 |
